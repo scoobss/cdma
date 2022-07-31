@@ -1,0 +1,2 @@
+# cdma
+Terminal CD manager
